@@ -1,0 +1,12 @@
+snr:
+  low: 5
+  moderate: 10
+  high: 15
+consistency_score:
+  low: 0.4
+  moderate: 0.7
+  high: 0.9
+tqi:
+  weak: 0.4
+  moderate: 0.6
+  strong: 0.8
